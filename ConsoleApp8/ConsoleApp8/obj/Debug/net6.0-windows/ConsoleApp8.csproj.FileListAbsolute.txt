@@ -1,0 +1,15 @@
+C:\Users\atamoghlanov_j\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0-windows\ConsoleApp8.exe
+C:\Users\atamoghlanov_j\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0-windows\ConsoleApp8.deps.json
+C:\Users\atamoghlanov_j\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0-windows\ConsoleApp8.runtimeconfig.json
+C:\Users\atamoghlanov_j\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0-windows\ConsoleApp8.dll
+C:\Users\atamoghlanov_j\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0-windows\ConsoleApp8.pdb
+C:\Users\atamoghlanov_j\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0-windows\ConsoleApp8.csproj.AssemblyReference.cache
+C:\Users\atamoghlanov_j\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0-windows\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atamoghlanov_j\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0-windows\ConsoleApp8.AssemblyInfoInputs.cache
+C:\Users\atamoghlanov_j\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0-windows\ConsoleApp8.AssemblyInfo.cs
+C:\Users\atamoghlanov_j\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0-windows\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\atamoghlanov_j\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0-windows\ConsoleApp8.dll
+C:\Users\atamoghlanov_j\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0-windows\refint\ConsoleApp8.dll
+C:\Users\atamoghlanov_j\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0-windows\ConsoleApp8.pdb
+C:\Users\atamoghlanov_j\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0-windows\ConsoleApp8.genruntimeconfig.cache
+C:\Users\atamoghlanov_j\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0-windows\ref\ConsoleApp8.dll
